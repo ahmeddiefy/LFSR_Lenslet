@@ -1,0 +1,2 @@
+model_checkpoint_path: "LFSR_adam_epoch_084.ckpt-257720"
+all_model_checkpoint_paths: "LFSR_adam_epoch_084.ckpt-257720"
